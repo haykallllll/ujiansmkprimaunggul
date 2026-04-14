@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { AuthProvider } from '@/components/auth/AuthProvider';
 import { AuthGuard } from '@/components/auth/AuthGuard';
 import { DashboardLayout } from '@/components/layout/DashboardLayout';
-import { Toaster } from '@/components/ui/sonner-ui';
+import { Toaster } from '@/components/ui/app-toaster';
 
 // Pages
 import LandingPage from '@/pages/LandingPage';
