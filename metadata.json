@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "SMK Prima Unggul - Ujian Online",
+  "description": "Aplikasi ujian online berbasis web untuk SMK Prima Unggul dengan materi TKJ.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
